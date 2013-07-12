@@ -1,4 +1,4 @@
-# This is the Title of my resources
+# RESISTORS WTF!!!
 ## By Marc Scott
 ### A Coding2Learn production
 
