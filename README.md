@@ -1,14 +1,14 @@
-# RESISTORS WTF!!!
-## By Marc Scott
-### A Coding2Learn production
+# RESISTORS WTF!!!  
+## By An Author  
+### A coverted academy resource
 
-[Resistors](http://en.wikipedia.org/wiki/Resistor) are very exciting
-![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
+[Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
+![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)  
 
-> WOW Resistors are fun
+> WOW Resistors are great
 
-1. They resist
-2. They have colours
+1. They resist.
+2. They have colours bands.
 3. They are small
 
 **Here are some codes**
